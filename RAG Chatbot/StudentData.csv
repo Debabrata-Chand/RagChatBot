@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,Year,CGPA,Skills,Interest,Email
+S001,Rahul Sharma,21,Male,CSE,4,8.7,"Python, SQL, Machine Learning",Artificial Intelligence,rahul@example.com
+S002,Ananya Das,22,Female,CSE,4,9.1,"Python, Deep Learning, TensorFlow",AI and Data Science,ananya@example.com
+S003,Rohit Kumar,21,Male,ECE,3,7.8,"C, Embedded Systems, IoT",Internet of Things,rohit@example.com
+S004,Priya Singh,22,Female,IT,4,8.9,"Java, SQL, Web Development",Software Development,priya@example.com
+S005,Arjun Patel,20,Male,CSE,3,8.2,"Python, Django, HTML, CSS",Web Development,arjun@example.com
+S006,Neha Gupta,21,Female,IT,3,8.6,"Python, Pandas, Excel",Data Analytics,neha@example.com
+S007,Amit Das,22,Male,CSE,4,7.9,"Java, Spring Boot, SQL",Backend Development,amit@example.com
+S008,Sneha Roy,21,Female,ECE,4,8.4,"Python, IoT, Arduino",Robotics,sneha@example.com
+S009,Vikash Singh,20,Male,CSE,3,9.0,"Python, Machine Learning, NLP",Natural Language Processing,vikash@example.com
+S010,Meera Nair,22,Female,IT,4,8.8,"SQL, Power BI, Python",Business Intelligence,meera@example.com
